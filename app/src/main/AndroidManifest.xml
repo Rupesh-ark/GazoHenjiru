@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GazoHenjiru">
         <activity
-            android:name=".PreviewActivity"
+            android:name=".views.PreviewActivity"
             android:screenOrientation="portrait"
             android:exported="true">
             <intent-filter>
