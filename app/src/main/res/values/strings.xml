@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GazoHenjiru</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="edit_your_pictures">Edit your Pictures</string>
+    <string name="selfie">Selfie</string>
+    <string name="upload">Upload</string>
 </resources>
